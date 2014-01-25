@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Canvastest/Canvastest.iml" filepath="$PROJECT_DIR$/Canvastest/Canvastest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CanvastestProject.iml" filepath="$PROJECT_DIR$/CanvastestProject.iml" />
+    </modules>
+  </component>
+</project>
+
